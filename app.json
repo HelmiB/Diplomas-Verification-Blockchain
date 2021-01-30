@@ -1,0 +1,6 @@
+{
+	"name": "diploma Validation",
+	"description": "A blockchain verified diploma service",
+	"repository": "https://github.com/HelmiB/diploma-validation",
+  "keywords": ["node", "express", "react", "ethereum"]
+}
